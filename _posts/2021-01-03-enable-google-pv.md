@@ -14,6 +14,10 @@ test123 test
 
 This post is to enable Page Views on the [**Chirpy**][chirpy-homepage] theme based blog that you just built. This requires technical knowledge and it's recommended to keep the `google_analytics.pv.*` empty unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let's start with the setup.
 
+
+
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/MadeMeSmile/comments/v79go3/the_mans_reaction_is_priceless/ibk7a4t/?depth=1&amp;showmore=false&amp;embed=true&amp;showmedia=false&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="139" width="640" scrolling="no"></iframe>
+
 ## Set up Google Analytics
 
 ### Create GA account and property
