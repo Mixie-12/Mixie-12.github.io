@@ -52,13 +52,13 @@ The above command will:
 ### Installing Dependencies
 
 Before running for the first time, go to the root directory of your site, and install dependencies as follows:
-
+s
 ```console
 $ bundle
 ```
 
 ## Usage
-
+s
 ### Configuration
 
 Update the variables of `_config.yml`{: .filepath} as needed. Some of them are typical options:

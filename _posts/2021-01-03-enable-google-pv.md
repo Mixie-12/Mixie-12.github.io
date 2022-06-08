@@ -6,6 +6,7 @@ categories: [Blogging, Tutorial]
 tags: [google analytics, pageviews]
 ---
 
+test123 test
 
 This post is to enable Page Views on the [**Chirpy**][chirpy-homepage] theme based blog that you just built. This requires technical knowledge and it's recommended to keep the `google_analytics.pv.*` empty unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let's start with the setup.
 
@@ -193,7 +194,7 @@ If everything went good, you'll get this screen:
 ### Create Google Analytics Query
 
 Head to `https://PROJECT_ID.REGION_ID.r.appspot.com/admin` and create a query after verifying the account. **GA Core Reporting API** query request can be created in [Query Explorer](https://ga-dev-tools.appspot.com/query-explorer/).
-
+s
 The query parameters are as follows:
 
 - **start-date**: fill in the first day of blog posting
