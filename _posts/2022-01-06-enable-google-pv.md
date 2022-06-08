@@ -19,7 +19,7 @@ In my quest for ever powerfull networking
 
 ## The network adapaters
 
-### **Mellanox Adapters** 
+### Mellanox Adapters
 
 **Launch Date:** Q4'15
 
@@ -30,7 +30,7 @@ In my quest for ever powerfull networking
 **Data Rate Per Port:** 100Gbps
 
 
-### **Intel® Omni-Path Host Fabric Interface Products**
+### Intel® Omni-Path Host Fabric Interface Products
 
 
 With your property created, you now need to set up Data Stream to track your blog traffic. After you signup, the prompt should automatically take you to create your first **Data Stream**. If not, follow these steps:
