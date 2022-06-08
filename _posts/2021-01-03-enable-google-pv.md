@@ -1,10 +1,14 @@
 ---
-title: Enable Google Page Views
-author: sille_bille
-date: 2021-01-03 18:32:00 -0500
+title: The Worlds cheapest 100GbE setup 
+author: Magnus
+date: 2022-08-06 18:32:00 -0500
 categories: [Blogging, Tutorial]
-tags: [google analytics, pageviews]
+tags: [Networking]
 ---
+
+# The Worlds cheapest 100GbE setup
+
+![My helpful screenshot](https://i.ebayimg.com/images/g/DMsAAOSwFNZidXoA/s-l1600.jpg)
 
 test123 test
 
