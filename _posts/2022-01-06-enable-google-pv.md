@@ -10,27 +10,28 @@ tags: [Networking]
 
 ![My helpful screenshot](https://i.ebayimg.com/images/g/DMsAAOSwFNZidXoA/s-l1600.jpg)
 
-test123 test
-
-This post is to enable Page Views on the [**Chirpy**][chirpy-homepage] theme based blog that you just built. This requires technical knowledge and it's recommended to keep the `google_analytics.pv.*` empty unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let's start with the setup.
 
 
+In my quest for ever powerfull networking 
 
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/MadeMeSmile/comments/v79go3/the_mans_reaction_is_priceless/ibk7a4t/?depth=1&amp;showmore=false&amp;embed=true&amp;showmedia=false&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="139" width="640" scrolling="no"></iframe>
 
-## Set up Google Analytics
 
-### Create GA account and property
 
-First, you need to set up your account on Google analytics. While you create your account, you must create your first **Property** as well.
+## The network adapaters
 
-1. Head to <https://analytics.google.com/> and click on **Start Measuring**
-2. Enter your desired _Account Name_ and choose the desired checkboxes
-3. Enter your desired _Property Name_. This is the name of the tracker project that appears on your Google Analytics dashboard
-4. Enter the required information _About your business_
-5. Hit _Create_ and accept any license popup to set up your Google Analytics account and create your property
+### **Mellanox Adapters** 
 
-### Create Data Stream
+**Launch Date:** Q4'15
+
+**Operating Temperature Range:** 0°C to 55°C
+
+**PCI Express Revision:** 3.0
+
+**Data Rate Per Port:** 100Gbps
+
+
+### **Intel® Omni-Path Host Fabric Interface Products**
+
 
 With your property created, you now need to set up Data Stream to track your blog traffic. After you signup, the prompt should automatically take you to create your first **Data Stream**. If not, follow these steps:
 
