@@ -148,7 +148,7 @@ It should look like this:
 
 ![google-analytics-data-stream](/posts/20210103/01-google-analytics-data-stream.png){: width="1086" height="542"}
 
-Now, click on the new data stream and grab the **Measurement ID**. It should look something like `G-V6XXXXXXXX`. Copy this to your `_config.yml`{: .filepath} file:
+Now, click on the new data stream and grab the **Measurement ID**. It should losok something like `G-V6XXXXXXXX`. Copy this to your `_config.yml`{: .filepath} file:
 
 ```yaml
 google_analytics:
