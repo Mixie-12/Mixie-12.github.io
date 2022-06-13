@@ -1,6 +1,6 @@
 ---
 title: The Worlds cheapest 100GbE setup 
-author: Magnus
+author: Magnus Simensen
 date: 2022-01-06 18:32:00 -0500
 categories: [Blogging, Tutorial]
 tags: [Networking]
