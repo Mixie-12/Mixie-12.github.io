@@ -21,7 +21,7 @@ timezone: Europe/Oslo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Homelab Docs                          # the main title
+title: Gråhatt Docs                          # the main title
 
 tagline: A place for tinkering  # it will display as the sub-title
 
